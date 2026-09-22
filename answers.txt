@@ -5,3 +5,7 @@ Answer: Git offers tracking, feature isolation, collaboration, and peer reviews.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to the medical field. The healthcare industry is surrounded by data so it could be used to predict diagnostics, researched/studied for drug discovery, and create personalized treatment plans according the the patient's data. For example, using and analyzing patient data, a MLM could be trained on electronic patient health records to determine risk score for readmission.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging applies the changes we made to the branch to the current branch by tieing their histories together and rebasing changes the base to keep the history in a linear matter.
