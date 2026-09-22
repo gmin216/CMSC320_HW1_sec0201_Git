@@ -9,3 +9,6 @@ Answer: Data science could be applied to the medical field. The healthcare indus
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging applies the changes we made to the branch to the current branch by tieing their histories together and rebasing changes the base to keep the history in a linear matter.
+Q4: What are you looking forward to this semester?
+
+Answer: I am most looking forward to learning more Python and SQL concepts to better analyze data. Also, I am interested in seeing if I would like to pursue a career in the data science field.
